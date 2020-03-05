@@ -38,16 +38,16 @@ combined from en_lit1 en_lit2 en_lit3 en_lit4 en_lit5 en_sci1 en_sci2 en_sci3 en
                 2458	word014
                 6401	word013
                10856	word012
+               11000	word001
                19298	word011
                33042	word010
-               46338	word001
                46608	word009
                61960	word008
+               70000	word002
                80846	word007
                82697	word006
               101697	word005
               143946	word004
-              171736	word002
               189990	word003
          4	!_P
          4	!_c

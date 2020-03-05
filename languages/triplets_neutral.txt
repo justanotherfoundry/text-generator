@@ -9,19 +9,19 @@ combined from cs cy da de de en en en es es fi fr fr is it la nl pl pt ro sv tr 
                  993	word017
                 1614	word016
                 2868	word015
+                5000	word001
                 4856	word014
                 8622	word013
                14748	word012
                23375	word011
                36881	word010
+               50000	word002
                50464	word009
-               58057	word001
                66175	word008
                82159	word007
                97358	word006
               116727	word004
               117092	word005
-              156168	word002
               159830	word003
          4	!_U
          4	!_f

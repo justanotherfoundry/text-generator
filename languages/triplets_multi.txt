@@ -11,20 +11,20 @@ combined from multi_15 human
            1325	word017
            2076	word016
            3687	word015
+           5000	word001
            5948	word014
            9476	word013
           15289	word012
           23406	word011
           35265	word010
           47191	word009
+          60000	word002
           64662	word008
-          66728	word001
           78498	word007
           95334	word006
          116262	word005
          120632	word004
          145633	word003
-         165614	word002
     5	!)_
     5	!_k
     5	'At

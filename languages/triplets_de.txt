@@ -22,6 +22,7 @@ combined from de_lit1 de_lit2 de_lit3 de_lit4 de_lit5 de_sci1 de_sci2 de_sci3 de
                   26	word031
                   66	word029
                   84	word028
+                 100	word001
                  104	word027
                  203	word026
                  264	word025
@@ -36,15 +37,14 @@ combined from de_lit1 de_lit2 de_lit3 de_lit4 de_lit5 de_sci1 de_sci2 de_sci3 de
                 7363	word016
                10203	word015
                14081	word014
-               20484	word001
                21694	word013
                28635	word012
+               30000	word002
                38341	word011
                45216	word010
                54599	word009
                55575	word008
                64452	word007
-               67478	word002
                90001	word006
               101093	word005
               105000	word004
