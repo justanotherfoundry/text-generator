@@ -453,5 +453,4 @@ if "ar" in form.getlist("language") or "he" in form.getlist("language") or "fa" 
 print file_output.encode('utf-8')
 
 print '</p>'
-print open("../shared/shared-bottom.html").read()
 print '</body></html>'
