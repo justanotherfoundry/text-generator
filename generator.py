@@ -218,7 +218,8 @@ numberofpairs = 0
 # import kerning file
 if kernglobal != 0:
 	if args.kern == "typ":
-		f=open('kerning.txt', 'r')
+		kern_filename = os.path.join( os.path.dirname( os.path.abspath( __file__ ) ), 'kerning.txt' )
+		f=open(kern_filename, 'r')
 		inputs = f.readlines()
 		f.close()
 		del inputs[0]
