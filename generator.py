@@ -30,8 +30,6 @@ casedict['\u0131'] = 'I'
 ########################################################################################################################
 ########################################################################################################################
 
-print( '<p style="font-weight:bold">Warning: After our web hosting service broke the generator script we had to quick-fix it. If it does not work as expected please get in touch with us.</p>' )
-
 print('''
 <!doctype html>
 <html>
