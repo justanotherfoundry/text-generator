@@ -40,7 +40,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         22	Arg
         22	Aud
         22	Căl
-        22	Deş
+        22	Deș
         22	Div
         22	Enr
         22	Fer
@@ -74,7 +74,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         22	_Vr
         22	_he
         22	_Îm
-        22	a-ş
+        22	a-ș
         22	a_0
         22	a_8
         22	ad,
@@ -88,7 +88,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         22	bog
         22	c_v
         22	cez
-        22	câş
+        22	câș
         22	d_C
         22	deb
         22	ek_
@@ -114,7 +114,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         22	iu)
         22	ium
         22	lav
-        22	leţ
+        22	leț
         22	mb_
         22	miu
         22	nac
@@ -122,7 +122,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         22	nig
         22	o_h
         22	of_
-        22	onş
+        22	onș
         22	oss
         22	pa.
         22	pau
@@ -155,18 +155,18 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         22	uj,
         22	uts
         22	v_i
-        22	veş
+        22	veș
         22	x._
         22	xpi
         22	xur
-        22	âşt
+        22	âșt
         22	ă-l
         22	ă_z
         22	ăca
-        22	ăţă
-        22	şas
-        22	ţ._
-        22	ţăm
+        22	ăță
+        22	șas
+        22	ț._
+        22	țăm
         22	„Si
         31	'_S
         31	(in
@@ -211,11 +211,11 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         31	_dă
         31	_“P
         31	_„T
-        31	a_ţ
+        31	a_ț
         31	acr
         31	agă
         31	amă
-        31	aşu
+        31	așu
         31	cac
         31	cmc
         31	ebe
@@ -248,7 +248,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         31	s_F
         31	st.
         31	t_„
-        31	taş
+        31	taș
         31	te)
         31	ts_
         31	tâm
@@ -262,7 +262,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         31	ă_j
         31	ăsa
         31	ăzb
-        31	şi.
+        31	și.
         31	”_a
         38	)_n
         38	-_R
@@ -323,7 +323,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         38	mum
         38	nd-
         38	nne
-        38	nuş
+        38	nuș
         38	obr
         38	oc,
         38	olj
@@ -337,7 +337,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         38	rcă
         38	rke
         38	rn,
-        38	rţe
+        38	rțe
         38	s-m
         38	s_G
         38	s_M
@@ -346,8 +346,8 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         38	t_1
         38	t_E
         38	t_O
-        38	toţ
-        38	tuş
+        38	toț
+        38	tuș
         38	ugă
         38	ur,
         38	uxu
@@ -355,9 +355,9 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         38	zeu
         38	ânz
         38	ă_R
-        38	ă_ţ
+        38	ă_ț
         38	ăsă
-        38	şii
+        38	șii
         43	(10
         43	-_o
         43	._v
@@ -391,8 +391,8 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         43	g/l
         43	i_'
         43	jea
-        43	lăţ
-        43	n_ţ
+        43	lăț
+        43	n_ț
         43	nd,
         43	o_R
         43	ogh
@@ -405,9 +405,9 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         43	trâ
         43	tuă
         43	ubt
-        43	v_ş
+        43	v_ș
         43	vă,
-        43	şil
+        43	șil
         46	,5_
         46	-19
         46	-me
@@ -554,7 +554,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         57	uez
         57	v_s
         57	Înc
-        57	şca
+        57	șca
         61	07,
         61	7_i
         61	:_„
@@ -577,7 +577,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         61	ael
         61	afo
         61	ded
-        61	deş
+        61	deș
         61	dub
         61	eim
         61	ett
@@ -663,14 +663,14 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         71	amv
         71	aua
         71	aug
-        71	aşa
+        71	așa
         71	b_d
         71	bi_
         71	ci.
         71	cis
         71	clă
         71	d_P
-        71	eaş
+        71	eaș
         71	ebă
         71	e”.
         71	gas
@@ -680,14 +680,14 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         71	io-
         71	iou
         71	izâ
-        71	işo
+        71	ișo
         71	jam
         71	l:_
         71	l_U
         71	lcă
         71	lux
         71	lăd
-        71	moţ
+        71	moț
         71	mpă
         71	mva
         71	ne-
@@ -698,7 +698,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         71	on-
         71	op,
         71	ors
-        71	oşi
+        71	oși
         71	poi
         71	r_N
         71	rgo
@@ -753,7 +753,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         72	tfo
         72	um,
         72	xcl
-        72	ţim
+        72	țim
         77	-_i
         77	._J
         77	._“
@@ -785,7 +785,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         79	Max
         79	Sur
         79	_43
-        79	aşe
+        79	așe
         79	c_e
         79	dău
         79	en,
@@ -798,12 +798,12 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         79	ofo
         79	re:
         79	ri;
-        79	riş
+        79	riș
         79	rsă
         79	răc
         79	se.
-        79	vaţ
-        79	ţif
+        79	vaț
+        79	țif
         85	-_S
         85	-_m
         85	._i
@@ -816,7 +816,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         85	48_
         85	4_d
         85	Fam
-        85	Iaş
+        85	Iaș
         85	Ita
         85	Pra
         85	S,_
@@ -843,13 +843,13 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         85	găs
         85	hes
         85	iez
-        85	ieţ
+        85	ieț
         85	igr
         85	lfa
         85	lli
         85	ma,
-        85	meş
-        85	miţ
+        85	meș
+        85	miț
         85	mnu
         85	mpt
         85	nk_
@@ -876,7 +876,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         85	ă),
         85	ăm_
         85	ăni
-        85	şel
+        85	șel
         86	%._
         86	)_I
         86	-_D
@@ -896,11 +896,11 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         86	_sâ
         86	a_Z
         86	aiu
-        86	eaţ
+        86	eaț
         86	fli
         86	găr
         86	ipo
-        86	maş
+        86	maș
         86	mus
         86	mut
         86	n_T
@@ -924,12 +924,12 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         87	8)_
         87	_mâ
         87	căi
-        87	laş
+        87	laș
         87	lef
         87	r_-
         87	rbe
         87	uls
-        87	ţit
+        87	țit
         92	.,_
         92	500
         92	8_m
@@ -942,7 +942,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         92	ba,
         92	bus
         92	d_n
-        92	eţu
+        92	ețu
         92	ir_
         92	pio
         92	t_V
@@ -1016,7 +1016,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
         95	ut,
         95	âmb
         95	ău,
-        95	şan
+        95	șan
         95	–_E
         95	”_S
        100	2,_
@@ -1050,7 +1050,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        102	c_t
        102	ncâ
        102	înf
-       102	ţa,
+       102	ța,
        105	)_v
        105	)În
        105	1_l
@@ -1079,7 +1079,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        107	Fon
        107	L._
        107	_i_
-       107	_şa
+       107	_șa
        107	arz
        107	fas
        107	gro
@@ -1128,7 +1128,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        115	ge.
        115	han
        115	i_J
-       115	nşt
+       115	nșt
        115	t_D
        115	tas
        115	ză:
@@ -1154,11 +1154,11 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        116	vom
        116	ze,
        116	ăin
-       116	şi-
+       116	și-
        117	a_7
        119	08_
        119	lop
-       119	s_ş
+       119	s_ș
        120	(pr
        120	-_1
        120	-_O
@@ -1190,7 +1190,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        120	lag
        120	lbe
        120	m_e
-       120	miş
+       120	miș
        120	mos
        120	nus
        120	o_P
@@ -1208,8 +1208,8 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        120	u_N
        120	zua
        120	ăzi
-       120	ăşi
-       120	ş,_
+       120	ăși
+       120	ș,_
        122	_37
        123	,_2
        123	4,_
@@ -1272,7 +1272,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        126	am:
        126	asn
        126	bu_
-       126	buş
+       126	buș
        126	de:
        126	e?_
        126	ee_
@@ -1309,7 +1309,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        130	)_R
        130	)_t
        130	-am
-       130	_şc
+       130	_șc
        130	aps
        130	dă.
        130	hea
@@ -1332,7 +1332,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        131	ef_
        131	et,
        131	ie;
-       131	işe
+       131	ișe
        131	lt,
        131	neî
        131	o_n
@@ -1422,7 +1422,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        144	me,
        144	n_U
        144	n_V
-       144	naş
+       144	naș
        144	nzi
        144	ou_
        144	p._
@@ -1433,7 +1433,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        144	run
        144	sof
        144	tau
-       144	teş
+       144	teș
        144	u_A
        144	u_L
        144	v_p
@@ -1442,7 +1442,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        144	ă_P
        144	ărb
        144	ăte
-       144	şeş
+       144	șeș
        144	–_P
        146	E,_
        146	ank
@@ -1460,9 +1460,9 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        154	ebr
        154	m_o
        154	obo
-       154	ulţ
+       154	ulț
        154	âln
-       154	şef
+       154	șef
        157	N._
        157	eie
        158	Ofi
@@ -1486,7 +1486,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        159	n_h
        159	rla
        159	rnă
-       159	soţ
+       159	soț
        159	top
        159	zi,
        159	Înt
@@ -1500,7 +1500,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        161	Fac
        161	Lis
        161	_go
-       161	_ţă
+       161	_ță
        161	a_–
        161	clo
        161	d_l
@@ -1564,7 +1564,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        168	_Il
        168	_Ki
        168	ago
-       168	aş_
+       168	aș_
        168	be_
        168	bra
        168	c_A
@@ -1619,8 +1619,8 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        170	or/
        170	uăr
        170	voa
-       170	ă-ş
-       170	şco
+       170	ă-ș
+       170	șco
        171	23_
        171	me.
        171	zer
@@ -1634,7 +1634,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        173	băt
        173	dra
        173	ebi
-       173	ieş
+       173	ieș
        173	il,
        173	ngh
        173	oul
@@ -1649,15 +1649,15 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        174	tlu
        174	u_b
        175	7_a
-       175	ceş
-       175	işa
+       175	ceș
+       175	ișa
        177	S._
        177	Sin
        177	ez_
        177	fot
        178	lez
        179	s_î
-       179	şa_
+       179	șa_
        180	4_(
        180	P._
        180	agn
@@ -1669,7 +1669,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        180	ău_
        181	rus
        183	Cap
-       183	icţ
+       183	icț
        183	itl
        183	ă_(
        184	)Pe
@@ -1753,7 +1753,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        192	z_d
        192	ăse
        195	lif
-       196	ţir
+       196	țir
        198	;_-
        198	_(i
        198	exu
@@ -1783,20 +1783,20 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        202	oxi
        202	uvâ
        202	ză.
-       202	şul
+       202	șul
        203	0_-
        203	3_-
        203	5_-
        203	fis
        203	oco
        203	r_b
-       203	ăţe
-       205	cuţ
+       203	ățe
+       205	cuț
        205	n:_
-       205	ţăr
-       206	ţul
+       205	țăr
+       206	țul
        207	Bal
-       207	fiş
+       207	fiș
        208	Flo
        208	_en
        208	did
@@ -1828,7 +1828,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        211	B._
        211	Res
        211	dum
-       211	e_ţ
+       211	e_ț
        211	fre
        211	o_v
        212	e_9
@@ -1851,7 +1851,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        215	Ele
        215	Lum
        215	re)
-       215	riţ
+       215	riț
        215	usa
        215	z._
        216	14:
@@ -1872,7 +1872,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        217	ube
        217	usă
        217	ă_-
-       217	şin
+       217	șin
        218	st,
        219	eso
        219	său
@@ -1902,14 +1902,14 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        226	mbă
        226	up_
        226	înv
-       227	_şe
+       227	_șe
        227	hiv
        227	o_e
        227	tet
        227	zei
-       227	ţen
+       227	țen
        228	Sup
-       228	_aş
+       228	_aș
        228	i_-
        229	_îi
        229	să,
@@ -1942,7 +1942,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        235	tue
        235	uin
        237	)_E
-       237	-şi
+       237	-și
        237	A_S
        238	26_
        238	_gh
@@ -1957,17 +1957,17 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        240	eză
        240	n_O
        240	u_1
-       240	văţ
+       240	văț
        240	ălă
-       240	ţ,_
+       240	ț,_
        240	–_1
        241	;_(
        241	;_p
-       241	eşi
+       241	eși
        241	n_N
        241	r_I
        241	te:
-       242	orţ
+       242	orț
        243	s_v
        244	tom
        244	voc
@@ -1975,19 +1975,19 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        246	i_G
        246	ija
        246	lve
-       246	niş
+       246	niș
        246	zan
        247	-ar
        247	Mas
        247	goc
        247	o,_
        247	ă_A
-       247	ăşe
+       247	ășe
        249	Inc
        249	a_6
        249	dim
-       249	sţi
-       249	usţ
+       249	sți
+       249	usț
        249	xti
        249	âri
        249	înl
@@ -2027,7 +2027,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        255	0_l
        255	6,_
        255	_1,
-       255	alţ
+       255	alț
        255	gli
        255	ja_
        255	re/
@@ -2064,7 +2064,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        264	hin
        264	i_V
        264	oam
-       264	oaş
+       264	oaș
        265	/19
        265	Met
        265	a_J
@@ -2082,11 +2082,11 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        269	Edu
        269	_od
        269	abr
-       269	daţ
+       269	daț
        269	nam
        269	vez
        269	îmb
-       269	ăşo
+       269	ășo
        270	Agr
        270	Cre
        270	_23
@@ -2104,7 +2104,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        271	v_a
        272	rn_
        272	ă_M
-       273	tiţ
+       273	tiț
        274	_31
        274	es,
        274	fid
@@ -2117,7 +2117,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        277	)_e
        277	Toa
        277	nsm
-       277	ţă.
+       277	ță.
        278	4_a
        278	ano
        278	sce
@@ -2125,7 +2125,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        280	bac
        280	fab
        280	iln
-       280	liţ
+       280	liț
        281	iv.
        281	op_
        281	r_C
@@ -2136,7 +2136,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        283	făc
        283	nep
        283	âte
-       283	ţi-
+       283	ți-
        284	16_
        284	_er
        284	eat
@@ -2165,7 +2165,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        292	abe
        292	u_E
        293	18_
-       293	n_ş
+       293	n_ș
        294	tid
        294	ălc
        295	,_H
@@ -2195,14 +2195,14 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        301	mbl
        301	tap
        301	vec
-       302	erţ
+       302	erț
        302	ri:
        303	0,_
        303	n_G
        304	egh
        304	l;_
        304	ăst
-       304	ţi.
+       304	ți.
        305	,_T
        305	m_u
        306	s_l
@@ -2216,7 +2216,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        309	_40
        310	Gen
        310	_26
-       310	_şt
+       310	_șt
        310	eno
        311	Mat
        311	amn
@@ -2229,9 +2229,9 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        312	uzu
        313	er,
        313	jun
-       313	uşi
+       313	uși
        314	-se
-       314	_ţa
+       314	_ța
        314	abs
        316	ae_
        316	pei
@@ -2247,18 +2247,18 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        319	dei
        319	rur
        320	Cen
-       320	şoa
+       320	șoa
        322	upl
        323	tol
        323	uen
        324	)_L
        324	_Fl
-       324	aşo
+       324	așo
        324	i_F
        324	r_1
        324	ru,
        324	veh
-       324	şov
+       324	șov
        325	Cat
        325	oal
        326	L_I
@@ -2270,7 +2270,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        327	u-s
        327	vre
        327	xa_
-       329	arţ
+       329	arț
        330	_bo
        331	);_
        331	apă
@@ -2287,7 +2287,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        333	in,
        334	d,_
        334	lom
-       334	luţ
+       334	luț
        334	tax
        335	gem
        336	,_O
@@ -2313,7 +2313,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        343	îl_
        343	îna
        344	văr
-       345	păş
+       345	păș
        346	fen
        346	mbi
        347	50_
@@ -2338,7 +2338,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        354	Val
        355	he_
        356	is,
-       356	noş
+       356	noș
        356	osp
        356	pop
        357	our
@@ -2420,7 +2420,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        385	-_a
        385	l_-
        386	iha
-       386	ţi,
+       386	ți,
        388	dos
        389	n_1
        389	zis
@@ -2446,7 +2446,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        403	Lim
        403	lue
        403	mpi
-       403	u_ş
+       403	u_ș
        403	xer
        404	Dis
        404	nfr
@@ -2476,7 +2476,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        415	14_
        415	_ei
        415	lca
-       415	liş
+       415	liș
        415	seu
        415	vio
        416	sor
@@ -2507,7 +2507,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        427	rân
        428	e_4
        428	na,
-       428	şed
+       428	șed
        429	._U
        429	lii
        429	t_C
@@ -2521,11 +2521,11 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        436	Ale
        438	Tel
        438	aso
-       440	lţi
+       440	lți
        442	as_
-       442	leş
-       444	unţ
-       445	epţ
+       442	leș
+       444	unț
+       445	epț
        445	ilv
        445	jlo
        445	os_
@@ -2538,7 +2538,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        448	avu
        448	l_g
        448	vut
-       448	şir
+       448	șir
        450	pir
        450	usp
        451	%_d
@@ -2661,7 +2661,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        510	tân
        511	_25
        511	bir
-       511	jaţ
+       511	jaț
        512	_Es
        512	mes
        514	De_
@@ -2682,7 +2682,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        522	nsc
        522	săn
        523	,_b
-       524	ţat
+       524	țat
        525	otu
        526	a:_
        526	tac
@@ -2690,19 +2690,19 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        527	a_H
        527	lev
        527	taj
-       528	şi/
+       528	și/
        529	Dan
        529	lni
-       529	ărţ
+       529	ărț
        530	Org
        530	agi
-       530	oşt
+       530	oșt
        532	a;_
        533	(5)
        533	Imp
        533	_(5
-       533	aşt
-       533	ţă,
+       533	așt
+       533	ță,
        534	api
        536	căl
        536	oro
@@ -2742,13 +2742,13 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        563	_vâ
        563	rig
        565	efu
-       565	şi,
+       565	și,
        568	a_3
        569	epo
        569	nag
        569	sep
        570	_Dr
-       571	neş
+       571	neș
        573	onă
        574	tis
        576	,_g
@@ -2771,7 +2771,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        590	ltă
        591	Gru
        591	len
-       591	ăşu
+       591	ășu
        592	bug
        592	cva
        594	8.1
@@ -2783,7 +2783,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        597	l_2
        599	iso
        601	ach
-       602	seş
+       602	seș
        603	12.
        603	az_
        603	nou
@@ -2824,7 +2824,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        627	T._
        627	mp_
        628	_ho
-       628	c_ş
+       628	c_ș
        628	opo
        630	_Ve
        630	n_z
@@ -2842,20 +2842,20 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        640	lex
        641	_Ta
        641	s_p
-       642	oţi
+       642	oți
        644	jor
        646	an,
        647	icl
        647	rut
        648	liu
        649	)_d
-       650	bţi
-       650	obţ
+       650	bți
+       650	obț
        650	ăro
        651	a_L
        651	rd_
        653	sih
-       654	buţ
+       654	buț
        654	erz
        654	ăta
        655	gă_
@@ -2909,13 +2909,13 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        689	noi
        689	ns_
        690	ta.
-       690	şur
+       690	șur
        692	bru
        692	n_A
        692	pin
        693	nco
        693	or;
-       694	puţ
+       694	puț
        694	vea
        696	osa
        697	10:
@@ -2928,7 +2928,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        704	e_-
        705	_Fu
        705	ărâ
-       706	_ţi
+       706	_ți
        708	eza
        709	nev
        711	_18
@@ -2940,11 +2940,11 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        719	_Ju
        723	imă
        724	10.
-       724	înţ
+       724	înț
        725	9._
        727	_ri
        727	aro
-       727	făş
+       727	făș
        728	Ins
        729	e-a
        729	ăti
@@ -2953,10 +2953,10 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        733	pea
        735	zăr
        737	e_E
-       737	reţ
+       737	reț
        738	oc_
        738	vir
-       740	onţ
+       740	onț
        741	eda
        744	_ga
        745	i_1
@@ -2994,7 +2994,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        767	bă_
        767	rzi
        769	c_s
-       769	paţ
+       769	paț
        772	e_3
        772	rgi
        773	_Cl
@@ -3025,7 +3025,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        800	ubi
        803	Guv
        803	nge
-       803	pţi
+       803	pți
        803	ung
        805	ănă
        806	_·_
@@ -3036,12 +3036,12 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        810	Num
        810	biu
        814	_zo
-       814	aşi
+       814	ași
        814	erg
        817	e_I
        817	rs_
        820	_9.
-       821	faţ
+       821	faț
        821	i)_
        821	nt,
        822	m_a
@@ -3064,21 +3064,21 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        840	_Pl
        840	nză
        841	0:0
-       844	aţă
+       844	ață
        844	rni
        845	_30
-       847	,_ş
+       847	,_ș
        847	Col
        848	Uni
        850	11.
        850	afe
        852	e_G
-       854	uaţ
+       854	uaț
        854	via
-       856	rşi
-       859	niţ
+       856	rși
+       859	niț
        859	uge
-       860	şit
+       860	șit
        862	_d)
        862	_is
        862	a_g
@@ -3113,9 +3113,9 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        884	zon
        885	ict
        887	Med
-       887	_îş
+       887	_îș
        887	xem
-       887	îşi
+       887	își
        888	_Ci
        888	rij
        889	rov
@@ -3125,7 +3125,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        894	hip
        896	eea
        897	_fr
-       897	eţe
+       897	ețe
        897	ă_v
        899	_Lo
        899	re;
@@ -3166,7 +3166,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        938	îns
        939	ciz
        940	eam
-       941	ţea
+       941	țea
        943	a_I
        943	ped
        944	i_B
@@ -3179,7 +3179,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        953	7._
        954	_tu
        958	_Ad
-       958	işt
+       958	ișt
        960	_Gr
        960	amu
        960	i_(
@@ -3195,7 +3195,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        971	9:0
        971	Pen
        971	l_v
-       972	ârş
+       972	ârș
        973	vil
        973	vâr
        976	c_d
@@ -3208,7 +3208,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
        982	Ser
        982	gar
        983	Aut
-       984	deţ
+       984	deț
        985	_ch
        985	cră
        987	._7
@@ -3234,7 +3234,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       1008	_6.
       1010	pii
       1011	tez
-      1012	)_ş
+      1012	)_ș
       1012	;_b
       1013	.1_
       1013	sia
@@ -3255,14 +3255,14 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       1025	urg
       1026	i_D
       1027	lăt
-      1027	ţei
+      1027	ței
       1028	u_u
       1030	)_p
       1030	n_n
       1032	Cul
       1032	ulo
       1037	emu
-      1037	ziţ
+      1037	ziț
       1038	gre
       1038	o_s
       1044	rba
@@ -3339,7 +3339,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       1137	cap
       1138	Buc
       1138	agr
-      1139	eşe
+      1139	eșe
       1139	sus
       1140	cân
       1140	rsu
@@ -3355,7 +3355,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       1160	ctr
       1160	o_a
       1160	oad
-      1161	raş
+      1161	raș
       1163	mbu
       1163	ta,
       1165	sla
@@ -3389,7 +3389,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       1201	pt_
       1203	a_B
       1210	ol_
-      1211	aţa
+      1211	ața
       1211	ptă
       1212	,_u
       1212	ezu
@@ -3405,7 +3405,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       1228	ană
       1228	cra
       1229	ună
-      1230	ţe_
+      1230	țe_
       1231	pur
       1237	doc
       1240	cil
@@ -3428,7 +3428,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       1269	r_t
       1270	plă
       1272	al.
-      1273	rţi
+      1273	rți
       1277	scă
       1283	_Al
       1283	aca
@@ -3453,7 +3453,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       1305	a_E
       1305	exa
       1306	_12
-      1307	ucţ
+      1307	ucț
       1308	u_n
       1310	6._
       1311	oba
@@ -3489,7 +3489,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       1357	rem
       1358	5._
       1360	făr
-      1361	tuţ
+      1361	tuț
       1362	van
       1362	ătu
       1363	dem
@@ -3513,7 +3513,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       1388	a_N
       1390	ego
       1390	n_o
-      1390	raţ
+      1390	raț
       1391	mba
       1393	măt
       1394	._R
@@ -3546,13 +3546,13 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       1448	oi_
       1449	l_S
       1450	cif
-      1452	l_ş
+      1452	l_ș
       1452	pte
-      1452	zaţ
+      1452	zaț
       1453	Des
       1453	r_m
       1454	nes
-      1459	ţar
+      1459	țar
       1460	e_2
       1461	eia
       1461	noa
@@ -3560,7 +3560,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       1462	age
       1466	l_u
       1467	lio
-      1469	acţ
+      1469	acț
       1469	tră
       1471	am_
       1471	fon
@@ -3574,7 +3574,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       1479	omo
       1479	otr
       1481	egl
-      1481	eţi
+      1481	eți
       1482	mă_
       1482	o_p
       1486	bat
@@ -3614,7 +3614,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       1538	div
       1538	ila
       1538	uve
-      1542	gaţ
+      1542	gaț
       1542	is_
       1542	s,_
       1544	ava
@@ -3744,7 +3744,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       1797	._3
       1800	rt_
       1802	ema
-      1803	maţ
+      1803	maț
       1810	ola
       1815	,_l
       1816	urt
@@ -3764,10 +3764,10 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       1841	le.
       1842	ă_r
       1843	in.
-      1843	ncţ
+      1843	ncț
       1846	mpa
       1848	rav
-      1848	t_ş
+      1848	t_ș
       1850	_Tr
       1850	gal
       1851	ext
@@ -3798,7 +3798,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       1926	_Mo
       1935	acc
       1937	nse
-      1937	ţel
+      1937	țel
       1938	idi
       1941	_mă
       1944	apa
@@ -3818,7 +3818,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       1973	pol
       1976	uct
       1986	hni
-      1991	Naţ
+      1991	Naț
       1992	lun
       1992	vol
       1997	_Ge
@@ -3854,19 +3854,19 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       2075	pă_
       2076	mon
       2077	emi
-      2084	iaţ
+      2084	iaț
       2084	nct
       2087	u_t
       2090	bie
       2094	dir
       2095	ger
-      2097	reş
+      2097	reș
       2098	mil
       2100	_fă
       2107	ot_
       2108	spr
       2109	_pă
-      2109	taţ
+      2109	taț
       2110	sc_
       2111	fos
       2114	ang
@@ -3925,7 +3925,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       2275	one
       2277	_ni
       2280	t_i
-      2283	m_ş
+      2283	m_ș
       2287	_ră
       2290	sub
       2293	egr
@@ -4006,7 +4006,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       2536	aru
       2539	obi
       2548	sin
-      2550	naţ
+      2550	naț
       2551	lie
       2552	izi
       2552	las
@@ -4039,7 +4039,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       2641	cie
       2656	aco
       2656	don
-      2657	caţ
+      2657	caț
       2663	adm
       2669	În_
       2684	rir
@@ -4153,7 +4153,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       3226	ăzu
       3227	eru
       3229	dmi
-      3231	laţ
+      3231	laț
       3238	căr
       3250	ve_
       3257	vel
@@ -4171,7 +4171,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       3323	uro
       3324	ual
       3325	tia
-      3332	r_ş
+      3332	r_ș
       3337	_(2
       3345	tua
       3348	iga
@@ -4191,7 +4191,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       3420	_to
       3422	pot
       3427	căt
-      3429	uţi
+      3429	uți
       3432	zut
       3438	(1)
       3446	aza
@@ -4212,7 +4212,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       3517	viz
       3525	exp
       3534	til
-      3536	diţ
+      3536	diț
       3538	e_b
       3539	ă_l
       3549	bor
@@ -4233,17 +4233,17 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       3621	sar
       3623	_ev
       3624	oli
-      3645	şte
+      3645	ște
       3657	_ju
       3668	iat
-      3673	ţa_
+      3673	ța_
       3675	dre
       3684	n_m
       3691	dec
       3695	iri
       3709	iti
       3711	_În
-      3716	ţiu
+      3716	țiu
       3727	ând
       3729	l,_
       3730	und
@@ -4281,14 +4281,14 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       3976	_Re
       3981	iva
       3990	ien
-      4003	inţ
+      4003	inț
       4014	i_n
-      4015	ă_ş
+      4015	ă_ș
       4018	dep
       4021	i_o
       4022	zul
       4041	._S
-      4063	nţă
+      4063	nță
       4068	log
       4074	cte
       4076	luc
@@ -4305,13 +4305,13 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       4129	ece
       4134	onf
       4137	erm
-      4139	nţa
+      4139	nța
       4151	eli
       4158	unu
       4165	oan
       4171	_vi
       4171	sur
-      4181	ţă_
+      4181	ță_
       4182	ucr
       4183	Pro
       4183	ula
@@ -4322,7 +4322,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       4230	lel
       4234	ren
       4236	nar
-      4238	nţe
+      4238	nțe
       4244	med
       4263	ii,
       4269	niz
@@ -4353,7 +4353,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       4437	_Ro
       4453	roc
       4465	oce
-      4469	ţin
+      4469	țin
       4477	_vo
       4504	lem
       4513	odu
@@ -4380,7 +4380,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       4731	_ve
       4736	00_
       4750	ndu
-      4762	a_ş
+      4762	a_ș
       4774	onc
       4786	rti
       4798	oni
@@ -4398,7 +4398,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       4891	ito
       4894	sup
       4903	it_
-      4912	anţ
+      4912	anț
       4915	eve
       4923	ic_
       4940	ură
@@ -4433,7 +4433,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       5160	t,_
       5185	anu
       5194	înt
-      5194	ţil
+      5194	țil
       5196	chi
       5197	unt
       5204	or,
@@ -4442,7 +4442,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       5229	st_
       5248	gur
       5256	vit
-      5257	şti
+      5257	ști
       5278	mpl
       5289	ord
       5319	tal
@@ -4465,9 +4465,9 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       5579	mun
       5593	_ob
       5612	t_p
-      5626	ţi_
+      5626	ți_
       5629	ins
-      5634	eşt
+      5634	eșt
       5637	iu_
       5641	man
       5642	ede
@@ -4504,7 +4504,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       5984	pli
       6008	ort
       6019	zar
-      6045	ecţ
+      6045	ecț
       6046	re,
       6048	nu_
       6080	i_l
@@ -4582,10 +4582,10 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       7201	l_c
       7211	atu
       7265	ral
-      7276	i_ş
+      7276	i_ș
       7351	ria
       7381	t._
-      7424	nţi
+      7424	nți
       7463	l_p
       7467	ond
       7473	tit
@@ -4613,7 +4613,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       7772	eni
       7779	_do
       7792	eze
-      7793	iţi
+      7793	iți
       7829	tii
       7846	liz
       7849	,_a
@@ -4642,13 +4642,13 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       8420	cur
       8520	_lu
       8558	ite
-      8562	ţio
+      8562	țio
       8567	rma
       8568	_as
       8579	eaz
       8628	ier
       8633	e_t
-      8695	tăţ
+      8695	tăț
       8715	ză_
       8719	ata
       8720	ine
@@ -4658,7 +4658,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       8841	par
       8886	i._
       8889	ndi
-      8927	ăţi
+      8927	ăți
       8939	_o_
       8956	_nu
       8963	nd_
@@ -4679,10 +4679,10 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
       9527	nat
       9531	une
       9554	ază
-      9591	ţia
+      9591	ția
       9592	edi
       9593	ită
-      9613	enţ
+      9613	enț
       9650	_ex
       9700	rie
       9714	ame
@@ -4724,7 +4724,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
      10905	tel
      10972	_or
      11008	_pu
-     11015	cţi
+     11015	cți
      11020	bil
      11099	tea
      11176	cti
@@ -4747,7 +4747,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
      12219	lic
      12305	ări
      12425	_Co
-     12441	ţie
+     12441	ție
      12443	_fi
      12492	ire
      12883	că_
@@ -4767,7 +4767,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
      13686	ra_
      14021	at_
      14106	ici
-     14299	e_ş
+     14299	e_ș
      14333	ari
      14408	ta_
      14535	ace
@@ -4805,7 +4805,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
      18767	i_c
      19115	i_a
      19182	i_p
-     19211	ţii
+     19211	ții
      19249	i_s
      19374	_al
      19491	al_
@@ -4848,7 +4848,7 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
      25314	la_
      25660	tru
      26333	_re
-     27220	aţi
+     27220	ați
      27487	i_d
      27503	tor
      27582	tat
@@ -4879,9 +4879,9 @@ combined from ro1 ro2 ro3 ro4 ro5 ro6 ro7 ro8 ro9 ro10
      44626	_pe
      45429	e_a
      46352	rea
-     46882	_şi
+     46882	_și
      46886	or_
-     47674	şi_
+     47674	și_
      48305	_în
      50763	ent
      52119	ea_
