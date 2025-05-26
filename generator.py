@@ -257,6 +257,11 @@ for inp in inputs:
 				t += casedict[temp[i]]
 		else:
 				t += temp[i]
+	if args.case == "capitalized":
+		if t[0] == '_' and t[1] in casedict:
+			continue
+		if t[1] == '_' and t[2] in casedict:
+			continue
 
 	v = int(inp.split()[0])
 	# ignore all triplets that contain the wrong characters
