@@ -708,7 +708,7 @@ combined from multi_15 human
     5	miw
     5	miš
     5	mms
-    5	moţ
+    5	moț
     5	mpí
     5	mpõ
     5	mpö
@@ -1200,7 +1200,7 @@ combined from multi_15 human
     5	š_u
     5	štu
     5	šuv
-    5	ţim
+    5	țim
     5	ů_1
     5	ů_č
     5	ůjd
@@ -1683,7 +1683,7 @@ combined from multi_15 human
     6	e-f
     6	ea'
     6	eay
-    6	eaţ
+    6	eaț
     6	ebü
     6	ecm
     6	ecá
@@ -1783,7 +1783,7 @@ combined from multi_15 human
     6	ibë
     6	id!
     6	id:
-    6	ieţ
+    6	ieț
     6	ig-
     6	ih,
     6	ij!
@@ -1900,7 +1900,7 @@ combined from multi_15 human
     6	mbú
     6	mcu
     6	mgä
-    6	miţ
+    6	miț
     6	mlj
     6	mlö
     6	mm,
@@ -2139,7 +2139,7 @@ combined from multi_15 human
     6	v'i
     6	v_C
     6	v_I
-    6	vaţ
+    6	vaț
     6	vdd
     6	ve)
     6	vep
@@ -2411,8 +2411,8 @@ combined from multi_15 human
     6	š_z
     6	šsk
     6	šwe
-    6	ţif
-    6	ţit
+    6	țif
+    6	țit
     6	ů_M
     6	–10
     6	–11
@@ -2805,7 +2805,7 @@ combined from multi_15 human
     7	eó_
     7	eû_
     7	eüb
-    7	eţu
+    7	ețu
     7	f!_
     7	f?_
     7	fda
@@ -4041,7 +4041,7 @@ combined from multi_15 human
     8	ŋ_d
     8	şse
     8	š?_
-    8	ţa,
+    8	ța,
     8	ť,_
     8	ūti
     8	ů_Č
@@ -6759,7 +6759,7 @@ combined from multi_15 human
    13	_êx
    13	_ño
    13	_ŋo
-   13	_ţă
+   13	_ță
    13	_‘y
    13	_“C
    13	_“H
@@ -6994,7 +6994,7 @@ combined from multi_15 human
    13	shë
    13	siñ
    13	skv
-   13	soţ
+   13	soț
    13	ssm
    13	sy.
    13	séc
@@ -7018,7 +7018,7 @@ combined from multi_15 human
    13	ud;
    13	udk
    13	uek
-   13	ulţ
+   13	ulț
    13	un!
    13	utö
    13	uup
@@ -7814,7 +7814,7 @@ combined from multi_15 human
    15	hwm
    15	h’e
    15	i-i
-   15	icţ
+   15	icț
    15	id-
    15	idp
    15	iiy
@@ -8530,7 +8530,7 @@ combined from multi_15 human
    17	ca:
    17	ch;
    17	crí
-   17	cuţ
+   17	cuț
    17	cód
    17	d_:
    17	dbl
@@ -8717,12 +8717,12 @@ combined from multi_15 human
    17	únu
    17	ürs
    17	þ.e
-   17	ăţe
+   17	ățe
    17	ěl,
    17	ı_H
    17	řů_
-   17	ţir
-   17	ţăr
+   17	țir
+   17	țăr
    17	ž_l
    17	žav
    17	–_P
@@ -8902,7 +8902,7 @@ combined from multi_15 human
    18	döl
    18	dým
    18	dży
-   18	e_ţ
+   18	e_ț
    18	ebh
    18	eez
    18	ei!
@@ -9020,7 +9020,7 @@ combined from multi_15 human
    18	rgv
    18	riç
    18	riê
-   18	riţ
+   18	riț
    18	rml
    18	rnæ
    18	rpf
@@ -9138,7 +9138,7 @@ combined from multi_15 human
    18	şku
    18	š_v
    18	šť_
-   18	ţul
+   18	țul
    18	ůl_
    18	ża,
    18	żer
@@ -9456,7 +9456,7 @@ combined from multi_15 human
    19	şbi
    19	š_j
    19	š_m
-   19	ţen
+   19	țen
    19	“A_
    19	”_T
    20	!_U
@@ -10008,7 +10008,7 @@ combined from multi_15 human
    21	opb
    21	oqa
    21	oqo
-   21	orţ
+   21	orț
    21	osf
    21	ov.
    21	oćb
@@ -10037,7 +10037,7 @@ combined from multi_15 human
    21	syf
    21	säu
    21	séq
-   21	sţi
+   21	sți
    21	t'.
    21	t'e
    21	t_x
@@ -10052,7 +10052,7 @@ combined from multi_15 human
    21	ug.
    21	unp
    21	us)
-   21	usţ
+   21	usț
    21	ut?
    21	u’a
    21	v_D
@@ -10062,7 +10062,7 @@ combined from multi_15 human
    21	väm
    21	vê-
    21	vöf
-   21	văţ
+   21	văț
    21	w_K
    21	wiw
    21	wka
@@ -10155,7 +10155,7 @@ combined from multi_15 human
    21	śno
    21	š_d
    21	šha
-   21	ţ,_
+   21	ț,_
    21	ťas
    21	ůh_
    21	żka
@@ -10257,7 +10257,7 @@ combined from multi_15 human
    22	ad?
    22	adq
    22	aj.
-   22	alţ
+   22	alț
    22	arý
    22	a”.
    22	bi.
@@ -10565,7 +10565,7 @@ combined from multi_15 human
    23	cão
    23	cą,
    23	d'I
-   23	daţ
+   23	daț
    23	dgm
    23	diá
    23	dsr
@@ -10907,7 +10907,7 @@ combined from multi_15 human
    24	k'e
    24	kef
    24	kól
-   24	liţ
+   24	liț
    24	ltf
    24	luê
    24	mce
@@ -10957,7 +10957,7 @@ combined from multi_15 human
    24	sé.
    24	t.)
    24	t_3
-   24	tiţ
+   24	tiț
    24	tsw
    24	ttv
    24	tws
@@ -11023,7 +11023,7 @@ combined from multi_15 human
    24	ń_m
    24	şsa
    24	ša_
-   24	ţă.
+   24	ță.
    24	ž_a
    24	ž_č
    24	”_i
@@ -11342,7 +11342,7 @@ combined from multi_15 human
    25	ŋu_
    25	şaş
    25	şke
-   25	ţi-
+   25	ți-
    25	że,
    25	żąd
    25	’_(
@@ -11430,7 +11430,7 @@ combined from multi_15 human
    26	edh
    26	edó
    26	ekg
-   26	erţ
+   26	erț
    26	ewö
    26	ey.
    26	ezí
@@ -11681,7 +11681,7 @@ combined from multi_15 human
    27	_Üy
    27	_ób
    27	_şt
-   27	_ţa
+   27	_ța
    27	abd
    27	afw
    27	afü
@@ -11851,7 +11851,7 @@ combined from multi_15 human
    27	ń_w
    27	ŋ_b
    27	ś_k
-   27	ţi.
+   27	ți.
    27	’t_
    28	!_p
    28	'oc
@@ -12132,7 +12132,7 @@ combined from multi_15 human
    29	ab,
    29	amå
    29	apă
-   29	arţ
+   29	arț
    29	asf
    29	auč
    29	avř
@@ -12183,7 +12183,7 @@ combined from multi_15 human
    29	kój
    29	l_'
    29	lką
-   29	luţ
+   29	luț
    29	lyš
    29	lák
    29	ma:
@@ -13464,7 +13464,7 @@ combined from multi_15 human
    34	ětí
    34	łec
    34	łus
-   34	ţi,
+   34	ți,
    34	ů_k
    34	ůbě
    34	ův_
@@ -14286,7 +14286,7 @@ combined from multi_15 human
    39	dè_
    39	e_‘
    39	eoi
-   39	epţ
+   39	epț
    39	et'
    39	evb
    39	evá
@@ -14309,7 +14309,7 @@ combined from multi_15 human
    39	kye
    39	kę,
    39	lón
-   39	lţi
+   39	lți
    39	mox
    39	ndp
    39	ngf
@@ -14347,7 +14347,7 @@ combined from multi_15 human
    39	tkn
    39	tøt
    39	uaq
-   39	unţ
+   39	unț
    39	uër
    39	vce
    39	vny
@@ -15468,7 +15468,7 @@ combined from multi_15 human
    46	ilí
    46	imz
    46	ivá
-   46	jaţ
+   46	jaț
    46	jcz
    46	jue
    46	ján
@@ -15677,13 +15677,13 @@ combined from multi_15 human
    47	önh
    47	úpr
    47	üen
-   47	ărţ
+   47	ărț
    47	ık,
    47	ıkç
    47	łka
    47	şad
    47	şi/
-   47	ţat
+   47	țat
    48	'_f
    48	'af
    48	)_n
@@ -15814,7 +15814,7 @@ combined from multi_15 human
    48	ıt_
    48	şer
    48	şru
-   48	ţă,
+   48	ță,
    48	ż_o
    49	'_K
    49	'_N
@@ -17014,7 +17014,7 @@ combined from multi_15 human
    58	afb
    58	boi
    58	bti
-   58	bţi
+   58	bți
    58	cít
    58	drø
    58	ed;
@@ -17049,12 +17049,12 @@ combined from multi_15 human
    58	näl
    58	o_K
    58	oa.
-   58	obţ
+   58	obț
    58	odh
    58	oté
    58	owl
    58	ozš
-   58	oţi
+   58	oți
    58	raí
    58	rfü
    58	ruš
@@ -17145,7 +17145,7 @@ combined from multi_15 human
    59	ałą
    59	bik
    59	bné
-   59	buţ
+   59	buț
    59	bya
    59	búa
    59	chb
@@ -17594,7 +17594,7 @@ combined from multi_15 human
    63	oux
    63	poż
    63	puk
-   63	puţ
+   63	puț
    63	q_a
    63	q_r
    63	qmi
@@ -17667,7 +17667,7 @@ combined from multi_15 human
    64	_wą
    64	_év
    64	_šp
-   64	_ţi
+   64	_ți
    64	adj
    64	ahy
    64	asł
@@ -17811,7 +17811,7 @@ combined from multi_15 human
    65	åge
    65	éna
    65	ípr
-   65	înţ
+   65	înț
    65	üên
    65	čtu
    65	ěře
@@ -17879,7 +17879,7 @@ combined from multi_15 human
    66	pso
    66	psz
    66	pyh
-   66	reţ
+   66	reț
    66	rpl
    66	ruð
    66	rúa
@@ -17959,7 +17959,7 @@ combined from multi_15 human
    67	lza
    67	n_ó
    67	odů
-   67	onţ
+   67	onț
    67	rew
    67	rmã
    67	ruf
@@ -18136,7 +18136,7 @@ combined from multi_15 human
    69	nýt
    69	o_“
    69	ocy
-   69	paţ
+   69	paț
    69	pát
    69	rhå
    69	rwp
@@ -18502,7 +18502,7 @@ combined from multi_15 human
    72	o_H
    72	omw
    72	pme
-   72	pţi
+   72	pți
    72	rk.
    72	rkj
    72	rm,
@@ -18563,7 +18563,7 @@ combined from multi_15 human
    73	ckn
    73	cy.
    73	dja
-   73	faţ
+   73	faț
    73	fa’
    73	gdo
    73	h_H
@@ -18714,7 +18714,7 @@ combined from multi_15 human
    75	_Qv
    75	_Ry
    75	agk
-   75	aţă
+   75	ață
    75	buc
    75	by,
    75	c_b
@@ -18809,7 +18809,7 @@ combined from multi_15 human
    76	rry
    76	ráz
    76	t'a
-   76	uaţ
+   76	uaț
    76	uec
    76	ufs
    76	uál
@@ -18876,7 +18876,7 @@ combined from multi_15 human
    77	mør
    77	naç
    77	ndw
-   77	niţ
+   77	niț
    77	ntv
    77	obc
    77	ofs
@@ -19101,7 +19101,7 @@ combined from multi_15 human
    80	d'A
    80	eea
    80	evř
-   80	eţe
+   80	ețe
    80	ft.
    80	hoć
    80	häm
@@ -19447,7 +19447,7 @@ combined from multi_15 human
    84	ım,
    84	ł_c
    84	ł_j
-   84	ţea
+   84	țea
    84	ż_z
    84	ždé
    85	(gw
@@ -19695,7 +19695,7 @@ combined from multi_15 human
    88	cră
    88	d_V
    88	dd)
-   88	deţ
+   88	deț
    88	e_å
    88	eçm
    88	e”_
@@ -20036,7 +20036,7 @@ combined from multi_15 human
    92	ý_n
    92	ć_r
    92	ěte
-   92	ţei
+   92	ței
    93	0_o
    93	7,_
    93	Bau
@@ -20097,7 +20097,7 @@ combined from multi_15 human
    93	wec
    93	wyj
    93	zid
-   93	ziţ
+   93	ziț
    93	Ég_
    93	ási
    93	ätz
@@ -20967,7 +20967,7 @@ combined from multi_15 human
   109	aep
   109	aq.
   109	auw
-  109	aţa
+  109	ața
   109	bay
   109	bog
   109	cow
@@ -21118,7 +21118,7 @@ combined from multi_15 human
   111	í_ú
   111	înd
   111	čít
-  111	ţe_
+  111	țe_
   111	ž_b
   111	žad
   111	žil
@@ -21293,7 +21293,7 @@ combined from multi_15 human
   115	plă
   115	ra!
   115	röm
-  115	rţi
+  115	rți
   115	scă
   115	sno
   115	táz
@@ -21433,7 +21433,7 @@ combined from multi_15 human
   118	sje
   118	stf
   118	t)_
-  118	ucţ
+  118	ucț
   118	væg
   118	wef
   118	wle
@@ -21634,7 +21634,7 @@ combined from multi_15 human
   123	otw
   123	skl
   123	t-c
-  123	tuţ
+  123	tuț
   123	tón
   123	u'o
   123	u_S
@@ -21778,7 +21778,7 @@ combined from multi_15 human
   126	oac
   126	ool
   126	pię
-  126	raţ
+  126	raț
   126	rça
   126	saw
   126	sey
@@ -22058,7 +22058,7 @@ combined from multi_15 human
   132	xcl
   132	y:_
   132	ynw
-  132	zaţ
+  132	zaț
   132	ße_
   132	á_z
   132	é_à
@@ -22066,12 +22066,12 @@ combined from multi_15 human
   132	üz_
   132	ą_k
   132	ływ
-  132	ţar
+  132	țar
   133	!_O
   133	23_
   133	Sub
   133	_På
-  133	acţ
+  133	acț
   133	cki
   133	dbo
   133	dyf
@@ -22111,7 +22111,7 @@ combined from multi_15 human
   134	aph
   134	ciá
   134	ezv
-  134	eţi
+  134	eți
   134	fwr
   134	får
   134	gað
@@ -22341,7 +22341,7 @@ combined from multi_15 human
   140	eeu
   140	en'
   140	eyr
-  140	gaţ
+  140	gaț
   140	i!_
   140	i',
   140	j_r
@@ -23101,7 +23101,7 @@ combined from multi_15 human
   163	h_C
   163	jve
   163	kät
-  163	maţ
+  163	maț
   163	nér
   163	ozu
   163	oče
@@ -23216,7 +23216,7 @@ combined from multi_15 human
   167	mah
   167	mít
   167	nał
-  167	ncţ
+  167	ncț
   167	osb
   167	ouj
   167	p_m
@@ -23450,7 +23450,7 @@ combined from multi_15 human
   175	í_č
   175	óri
   175	ško
-  175	ţel
+  175	țel
   175	ž_p
   176	._h
   176	3)_
@@ -23558,7 +23558,7 @@ combined from multi_15 human
   180	'Ik
   180	-_D
   180	I_a
-  180	Naţ
+  180	Naț
   180	Ser
   180	_n_
   180	a_I
@@ -23797,7 +23797,7 @@ combined from multi_15 human
   189	dán
   189	emd
   189	f_r
-  189	iaţ
+  189	iaț
   189	iim
   189	iln
   189	i’c
@@ -23865,7 +23865,7 @@ combined from multi_15 human
   191	nqa
   191	nů_
   191	okt
-  191	taţ
+  191	taț
   191	uzu
   191	yös
   191	ž_s
@@ -24757,7 +24757,7 @@ combined from multi_15 human
   231	m:_
   231	měr
   231	n'e
-  231	naţ
+  231	naț
   231	om.
   231	s_K
   231	tyy
@@ -24937,7 +24937,7 @@ combined from multi_15 human
   241	Arg
   241	_bú
   241	_dv
-  241	caţ
+  241	caț
   241	fio
   241	gt.
   241	mec
@@ -25715,7 +25715,7 @@ combined from multi_15 human
   293	d_I
   293	i_K
   293	każ
-  293	laţ
+  293	laț
   293	mow
   293	o_P
   293	rs.
@@ -25932,7 +25932,7 @@ combined from multi_15 human
   311	lvi
   311	rue
   311	tje
-  311	uţi
+  311	uți
   311	zut
   311	ć_d
   312	-_o
@@ -26031,7 +26031,7 @@ combined from multi_15 human
   321	,_2
   321	0._
   321	_öf
-  321	diţ
+  321	diț
   321	dze
   321	hae
   321	isq
@@ -26170,7 +26170,7 @@ combined from multi_15 human
   333	åte
   333	ún_
   333	şki
-  333	ţa_
+  333	ța_
   334	'._
   334	12_
   334	a)_
@@ -26201,7 +26201,7 @@ combined from multi_15 human
   337	w_a
   337	zap
   337	ão.
-  337	ţiu
+  337	țiu
   338	No_
   338	ané
   338	i_(
@@ -26474,7 +26474,7 @@ combined from multi_15 human
   363	c_d
   363	co,
   363	erí
-  363	inţ
+  363	inț
   363	jej
   363	kea
   363	m_í
@@ -26531,7 +26531,7 @@ combined from multi_15 human
   368	auð
   368	iac
   368	meg
-  368	nţă
+  368	nță
   368	ohn
   368	thu
   368	ête
@@ -26598,7 +26598,7 @@ combined from multi_15 human
   375	l_q
   375	l_w
   375	nsp
-  375	nţa
+  375	nța
   375	rý_
   375	tjó
   375	tuu
@@ -26646,7 +26646,7 @@ combined from multi_15 human
   379	í_l
   379	ę_d
   379	şka
-  379	ţă_
+  379	ță_
   380	_Sy
   380	_aw
   380	_py
@@ -26697,7 +26697,7 @@ combined from multi_15 human
   385	ddu
   385	mom
   385	mää
-  385	nţe
+  385	nțe
   385	oas
   385	Ísl
   386	_4_
@@ -26860,7 +26860,7 @@ combined from multi_15 human
   406	jin
   406	kot
   406	ymw
-  406	ţin
+  406	țin
   407	Mas
   407	kic
   407	mda
@@ -27151,7 +27151,7 @@ combined from multi_15 human
   445	tst
   445	w_t
   445	äsi
-  446	anţ
+  446	anț
   446	d_k
   446	dna
   446	egt
@@ -27337,7 +27337,7 @@ combined from multi_15 human
   471	vii
   471	ymi
   472	;_p
-  472	ţil
+  472	țil
   473	_há
   473	_yi
   473	kut
@@ -27584,7 +27584,7 @@ combined from multi_15 human
   511	_aj
   511	eşt
   511	flu
-  511	ţi_
+  511	ți_
   512	_Ab
   512	_dö
   512	afn
@@ -27780,7 +27780,7 @@ combined from multi_15 human
   548	mou
   548	í_t
   549	dmi
-  549	ecţ
+  549	ecț
   549	efu
   550	_Lo
   550	e?_
@@ -28381,7 +28381,7 @@ combined from multi_15 human
   675	gym
   675	hus
   675	nsu
-  675	nţi
+  675	nți
   675	ybo
   676	hoo
   676	n_ö
@@ -28494,7 +28494,7 @@ combined from multi_15 human
   707	ı_i
   708	Com
   708	ao_
-  708	iţi
+  708	iți
   708	rqu
   708	u_y
   709	bed
@@ -28728,7 +28728,7 @@ combined from multi_15 human
   776	uda
   778	dst
   778	m_þ
-  778	ţio
+  778	țio
   780	chy
   780	eaz
   780	in.
@@ -28762,7 +28762,7 @@ combined from multi_15 human
   789	ils
   789	lge
   790	_ky
-  790	tăţ
+  790	tăț
   791	oth
   791	üze
   792	ijo
@@ -28830,7 +28830,7 @@ combined from multi_15 human
   811	cta
   811	etr
   811	geb
-  811	ăţi
+  811	ăți
   812	aid
   812	ık_
   813	_ně
@@ -29011,11 +29011,11 @@ combined from multi_15 human
   871	rto
   872	aja
   872	ită
-  872	ţia
+  872	ția
   873	api
   873	niz
   873	utu
-  874	enţ
+  874	enț
   874	lab
   875	aku
   875	an.
@@ -29292,7 +29292,7 @@ combined from multi_15 human
   999	noi
  1000	auc
  1000	ch,
- 1001	cţi
+ 1001	cți
  1001	eye
  1001	mad
  1001	n_G
@@ -29534,7 +29534,7 @@ combined from multi_15 human
  1130	ä_t
  1130	þes
  1131	a_á
- 1131	ţie
+ 1131	ție
  1133	fve
  1133	ity
  1133	ope
@@ -30242,7 +30242,7 @@ combined from multi_15 human
  1745	cat
  1746	de,
  1747	uis
- 1747	ţii
+ 1747	ții
  1748	er.
  1749	ult
  1749	yor
@@ -30677,7 +30677,7 @@ combined from multi_15 human
  2470	aus
  2472	_Co
  2473	dau
- 2476	aţi
+ 2476	ați
  2479	dal
  2479	ze_
  2480	rar
